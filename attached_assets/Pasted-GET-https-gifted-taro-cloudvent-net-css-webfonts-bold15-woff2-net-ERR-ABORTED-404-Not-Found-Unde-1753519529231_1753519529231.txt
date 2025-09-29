@@ -1,0 +1,19 @@
+GET https://gifted-taro.cloudvent.net/css/webfonts_bold15.woff2 net::ERR_ABORTED 404 (Not Found)Understand this error
+(index):2301 🚀 AI Agent Widget: PRODUCTION FIXED - Domain Corrected
+(index):2625 🎬 Initializing DOMAIN-FIXED widget...
+(index):2626 🔧 Correct domain: https://7fcbe6b6-a3eb-4b69-be1f-1f77d0c56b06-00-2rvo558u5q5my.kirk.replit.dev
+(index):2667 ✅ DOMAIN-FIXED widget initialized successfully
+favicon-32x32.png:1  GET https://gifted-taro.cloudvent.net/meta/favicon-32x32.png 404 (Not Found)Understand this error
+favicon-16x16.png:1  GET https://gifted-taro.cloudvent.net/meta/favicon-16x16.png 404 (Not Found)Understand this error
+gifted-taro.cloudvent.net/:1 The resource https://gifted-taro.cloudvent.net/css/webfonts_bold15.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.Understand this warning
+(index):2532 📤 Sending message: Hello
+(index):2533 🌐 CORRECTED API Base: https://7fcbe6b6-a3eb-4b69-be1f-1f77d0c56b06-00-2rvo558u5q5my.kirk.replit.dev
+(index):2554 📡 Making request to CORRECTED URL: https://7fcbe6b6-a3eb-4b69-be1f-1f77d0c56b06-00-2rvo558u5q5my.kirk.replit.dev/api/widget/chat
+(index):2555 📊 Request body: {message: 'Hello', widgetId: 1, agentId: 1, formId: 1, pageContext: 'smsf-homepage', …}
+gifted-taro.cloudvent.net/:1 Access to fetch at 'https://7fcbe6b6-a3eb-4b69-be1f-1f77d0c56b06-00-2rvo558u5q5my.kirk.replit.dev/api/widget/chat' from origin 'https://gifted-taro.cloudvent.net' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+(index):2557  POST https://7fcbe6b6-a3eb-4b69-be1f-1f77d0c56b06-00-2rvo558u5q5my.kirk.replit.dev/api/widget/chat net::ERR_FAILED
+sendMessage @ (index):2557
+(anonymous) @ (index):2663Understand this error
+(index):2592 💥 Chat error: TypeError: Failed to fetch
+    at sendMessage ((index):2557:36)
+    at HTMLInputElement.<anonymous> ((index):2663:40)
